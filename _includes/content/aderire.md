@@ -12,6 +12,7 @@ Cosa serve? Tanta buona volontà, al resto ci pensiamo quando ci si incontra.
 ### Per gli appassionati
 
 Sei un genitore, un insegnante, un appassionato di Linux o comunque un
-cittadino volenteroso e vuoi darci una mano? Vieni a trovarci il mercoledì e
-parliamone ;-)
+cittadino volenteroso e vuoi darci una mano? Iscriviti alla
+[mailing list](https://groups.google.com/forum/#!forum/bglug-scuole) e vieni
+a trovarci il mercoledì e parliamone ;-)
 ...lo spirito del progetto è anche questo!!!
