@@ -2,8 +2,7 @@
 
 Qualunque scuola voglia aderire, può scriverci una mail all'indirizzo
 [<tt>info(at)bglug.it</tt>](mailto:info[at]bglug.it), oppure venire a trovarci
-qualunque mercoledì sera (dopo le ore 21:00) presso lo [Spazio
-Polaresco](http://giovani.bg.it/spazio-polaresco/) di Bergamo.
+qualunque mercoledì sera (dopo le ore 21:00) presso la [sede del FabLab](https://www.fablabbergamo.it/) a Bergamo in via Mauro Gavazzeni, 3.
 
 Cosa serve? Tanta buona volontà, al resto ci pensiamo quando ci si incontra.
 
